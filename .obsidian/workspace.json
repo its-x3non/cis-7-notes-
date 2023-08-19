@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "d55d6313543a253f",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a38fded353be86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd27874946a0456",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13c2052c5f9319aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "375b41202e68cac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b79cc2064e279ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db3b9a8dda2a85df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Modulex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5906bbe84a115fcc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a7a4c15cd684bce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe012f1645ae99cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f3123becca0423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21e883bfbe62d6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aad70fea29d82e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c2573aa2cbb1e28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5e0cd7dc37e45e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fdbb3d8c9c3e143",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ffd27874946a0456",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
+    "FINAL/Final Exam.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
+    "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
+    "FINAL",
+    "Module 10/Pearson Notes/15.1 - What is Inheritance.md",
+    "Module 9/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
+    "Module 9/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
+    "Module 9/Pearson Notes/13.16 - Focus on Object-Oriented Design.md",
+    "Module 9/Pearson Notes/13.15 - Focus on Object-Oriented Design.md",
+    "Module 9/Pearson Notes/14.7 - Aggregation.md",
+    "Module 9/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
+    "Module 9/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
+    "Module 9/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
+    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
+    "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
+    "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
+    "! templates and stuff for me to remember.md",
+    "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md",
+    "Module 11/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md",
+    "Module 11/Pearson Notes/Singular Photos",
+    "Module 11/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
+    "Module 12/Pearson Notes/16.4 - Class Templates.md",
+    "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
+    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
+    "Module 9/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
+    "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
+    "Module 9/Pearson Notes/Singular Photos",
+    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
+    "Module 9/Video Notes",
+    "Module 9/Pearson Notes",
+    "Module 9",
+    "All Programming Projects in Order",
+    "MIDTERM (Modules 1-5)/Untitled",
+    "Module 7/Pearson Notes/Singular Photos/14.1 - Figure 14-2.png",
+    "Module 4/Pearson Notes/Singular Photos",
+    "Module 11/Pearson Notes/Singular Photos/15.8 - Figure 15-6.png",
+    "Module 12/Pearson Notes/16.2 Photos/16.2 - Figure 16-3.png",
+    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-2.png",
+    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-1.png",
+    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-5.png",
+    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-4.png",
+    "Module 10/Pearson Notes/Singular Photos/15.2 - Figure 15-3.png"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true
+}
