@@ -15,7 +15,6 @@
 	- [Hexadecimal Conversion to Binary ]
 - [Octal System]
 - [Representing Negative Numbers]
-<br />
 ### Number Representations
 **Binary (Base 2 Number System)** - 1s and 0s 
 **Base 10 (Decimal / *positive* counting numbers)** - 1, 2, 3 and so on
