@@ -121,6 +121,8 @@ The most common representation of positive and negative integers is two's comple
 3) Add 1
 	- **Example:** 11110010 -> 11110011
 
+The **most-significant bit** of 1 signifies a negative number, but the rest of the bits do not encode the magnitude in the regular way.
+![](Photos/Most-Significant%20Bit%20Example.png)
 ### How to Convert Binary Back to a Negative Decimal
 1) Inverse all the bits
 	- **Example:** 10010110 -> 01101001
