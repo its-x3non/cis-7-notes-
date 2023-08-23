@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248
   },
   "right": {
     "id": "fe012f1645ae99cf",
@@ -163,20 +163,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b79cc2064e279ff",
+  "active": "ffd27874946a0456",
   "lastOpenFiles": [
-    "Week 1/Photos/Theorem 1.png",
+    "Week 1/Photos/Binary Addition Example.png",
+    "Week 1/Photos/Binary Addition Rules.png",
+    "Week 1/Photos/Division Method.png",
+    "Week 1/Photos/Addition Method.png",
+    "Week 1/Photos/Subtraction Method.png",
     "Week 1/Photos/Theorem 1 Example Colorized.png",
     "Week 1/Chapter 1 Notes.md",
+    "Week 1/Photos/Theorem 1 Example Colorized.png",
+    "README.md",
+    "Week 1/Photos/Theorem 1.png",
     "Week 1/Photos/Binary Representation Example.png",
     "Week 1/Pasted image 20230822230553.png",
     "Week 1/Photos/Theorem 1 Example.png",
-    "Week 1/Pasted image 20230822231253.png",
-    "Week 1/Photos/Example simplified.png",
     "Week 1/Photos",
-    "Week 1/Photos/Base 10 Equation.png",
     "Week 1",
-    "README.md",
     "LICENSE",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "FINAL/Final Exam.md",
@@ -203,8 +206,6 @@
     "Module 12/Pearson Notes/16.4 - Class Templates.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
     "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-    "Module 9/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
-    "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
     "Module 9/Pearson Notes/Singular Photos",
     "Module 9/Video Notes",
     "Module 9/Pearson Notes",
