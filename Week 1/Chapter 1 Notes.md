@@ -5,9 +5,10 @@
 	- [Subtraction Method](#Subtraction-Method)
 	- [Addition Method](#Addition-Method)
 	- [Division Method](#Division-Method)
-- [Binary Arithmetic]
-	- [Binary Addition]
-	- [Binary Subtraction]
+- [Binary Arithmetic](#Binary-Arithmetic)
+	- [Binary Addition](#Binary-Addition)
+	- [Binary Subtraction](#Binary-Subtraction)
+	- [Binary Multiplication](#Binary-Multiplication)
 - [Bytes]
 - [Hexadecimal Representation]
 	- [Hexadecimal Conversion to Decimal]
@@ -54,9 +55,11 @@ In this case: 32 + 16 + 4 + 2 = 54
 <br />
 Should be really easy to understand
 #### Binary Subtraction
-
+![](Photos/Binary%20Subtraction%20Rules.png) <br />
+![](Photos/Binary%20Subtraction%20Example.png)  <br />
 #### Binary Multiplication
-
+![](Photos/Binary%20Multiplication.png) <br />
+It should just be like regular multiplication.
 ### Bytes
 
 ### Hexadecimal Representation
