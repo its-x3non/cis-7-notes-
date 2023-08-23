@@ -11,8 +11,12 @@
             "id": "ffd27874946a0456",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 1/Chapter 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 1/Chapter 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 1/Chapter 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Week 1/Chapter 1 Notes.md"
+              }
             }
           },
           {
@@ -155,8 +163,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffd27874946a0456",
+  "active": "6b79cc2064e279ff",
   "lastOpenFiles": [
+    "Week 1/Photos/Theorem 1.png",
+    "Week 1/Photos/Theorem 1 Example Colorized.png",
+    "Week 1/Chapter 1 Notes.md",
+    "Week 1/Photos/Binary Representation Example.png",
+    "Week 1/Pasted image 20230822230553.png",
+    "Week 1/Photos/Theorem 1 Example.png",
+    "Week 1/Pasted image 20230822231253.png",
+    "Week 1/Photos/Example simplified.png",
+    "Week 1/Photos",
+    "Week 1/Photos/Base 10 Equation.png",
+    "Week 1",
     "README.md",
     "LICENSE",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
@@ -187,20 +206,9 @@
     "Module 9/Pearson Notes/Singular Photos/14.7 - Figure 14-7.png",
     "Module 9/Pearson Notes/Singular Photos/14.8 - Figure 14-8.png",
     "Module 9/Pearson Notes/Singular Photos",
-    "Module 6/Pearson Notes/13.5 - Focus on Software Engineering.md",
     "Module 9/Video Notes",
     "Module 9/Pearson Notes",
     "Module 9",
-    "All Programming Projects in Order",
-    "MIDTERM (Modules 1-5)/Untitled",
-    "Module 7/Pearson Notes/Singular Photos/14.1 - Figure 14-2.png",
-    "Module 4/Pearson Notes/Singular Photos",
-    "Module 11/Pearson Notes/Singular Photos/15.8 - Figure 15-6.png",
-    "Module 12/Pearson Notes/16.2 Photos/16.2 - Figure 16-3.png",
-    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-2.png",
-    "Module 12/Pearson Notes/16.1 Photos/16.1 - Figure 16-1.png",
-    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-5.png",
-    "Module 10/Pearson Notes/15.5 Photos/15.5 - Figure 15-4.png",
-    "Module 10/Pearson Notes/Singular Photos/15.2 - Figure 15-3.png"
+    "All Programming Projects in Order"
   ]
 }
