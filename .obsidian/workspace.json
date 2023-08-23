@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,19 +165,18 @@
   },
   "active": "ffd27874946a0456",
   "lastOpenFiles": [
+    "Week 1/Chapter 1 Notes.md",
     "Week 1/Photos/Binary Addition Example.png",
     "Week 1/Photos/Binary Addition Rules.png",
     "Week 1/Photos/Division Method.png",
     "Week 1/Photos/Addition Method.png",
     "Week 1/Photos/Subtraction Method.png",
     "Week 1/Photos/Theorem 1 Example Colorized.png",
-    "Week 1/Chapter 1 Notes.md",
     "Week 1/Photos/Theorem 1 Example Colorized.png",
     "README.md",
     "Week 1/Photos/Theorem 1.png",
     "Week 1/Photos/Binary Representation Example.png",
     "Week 1/Pasted image 20230822230553.png",
-    "Week 1/Photos/Theorem 1 Example.png",
     "Week 1/Photos",
     "Week 1",
     "LICENSE",
