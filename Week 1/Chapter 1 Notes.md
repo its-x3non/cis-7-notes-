@@ -1,20 +1,20 @@
 # Chapter 1 Notes Simplified
 ## Table of Contents
-[Number Representations](#Number%20Representations)
-[Decimal Binary Conversion](#Decimal-Binary%20Conversion)
-- [Subtraction Method](#Subtraction%20Method)
-- [Addition Method](#Addition%20Method)
-- [Division Method](#Division%20Method)
-[Binary Arithmetic]
-- [Binary Addition]
-- [Binary Subtraction]
-[Bytes]
-[Hexadecimal Representation]
-- [Hexadecimal Conversion to Decimal]
-- [Decimal Conversion to Hexadecimal ]
-- [Hexadecimal Conversion to Binary ]
-[Octal System]
-[Representing Negative Numbers]
+- [Number Representations](#Number%20Representations)
+- [Decimal Binary Conversion](#Decimal-Binary%20Conversion)
+	- [Subtraction Method](#Subtraction%20Method)
+	- [Addition Method](#Addition%20Method)
+	- [Division Method](#Division%20Method)
+- [Binary Arithmetic]
+	- [Binary Addition]
+	- [Binary Subtraction]
+- [Bytes]
+- [Hexadecimal Representation]
+	- [Hexadecimal Conversion to Decimal]
+	- [Decimal Conversion to Hexadecimal ]
+	- [Hexadecimal Conversion to Binary ]
+- [Octal System]
+- [Representing Negative Numbers]
 <br />
 ### Number Representations
 **Binary (Base 2 Number System)** - 1s and 0s 
