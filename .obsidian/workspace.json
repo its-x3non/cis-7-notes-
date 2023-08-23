@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 1/Photos/Chapter 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 1/Photos/Chapter 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 1/Photos/Chapter 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md"
+                "file": "Week 1/Photos/Chapter 1 Notes.md"
               }
             }
           },
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,21 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffd27874946a0456",
+  "active": "6b79cc2064e279ff",
   "lastOpenFiles": [
-    "Week 1/Photos/Binary Multiplication.png",
-    "Week 1/Photos/Binary Subtraction Rules.png",
-    "Week 1/Photos/Binary Subtraction Example.png",
+    "Week 1/Binary to Octal example.png",
+    "Week 1/Pasted image 20230823015032.png",
+    "Week 1/Photos/Octal System Examples.png",
     "README.md",
-    "Week 1/Chapter 1 Notes.md",
-    "Week 1/Photos/Binary Addition Example.png",
-    "Week 1/Photos/Binary Addition Rules.png",
-    "Week 1/Photos/Division Method.png",
-    "Week 1/Photos/Addition Method.png",
-    "Week 1/Photos/Subtraction Method.png",
-    "Week 1/Photos/Theorem 1 Example Colorized.png",
-    "Week 1/Photos/Theorem 1 Example Colorized.png",
-    "Week 1/Photos/Theorem 1.png",
+    "Week 1/Photos/Chapter 1 Notes.md",
+    "Week 1/Photos/Hexadecimal to Decimal Example 2.png",
+    "Week 1/Photos/Binary to Hexadecimal Examples.png",
+    "Week 1/Photos/Hexa to Decimal Example 1.png",
+    "Week 1/Photos/Hexadecimal to Decimal equation.png",
+    "Week 1/Photos/Find Remainder Decimal for the Remainder Hex.png",
+    "Week 1/Pasted image 20230823012138.png",
+    "Week 1/Photos/Decimal to Hexadecimal Example.png",
+    "Week 1/Photos/Hexadecimal Example.png",
     "Week 1/Photos",
     "Week 1",
     "LICENSE",
