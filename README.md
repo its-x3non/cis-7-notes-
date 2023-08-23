@@ -3,5 +3,5 @@ I am going to simplify the notes for you as best as I could for you if you don't
 
 ## Table of Contents
 
-### [Week 1 Chapter Notes](Week%201/Photos/Chapter%201%20Notes.md)
+### [Week 1 Chapter Notes](Week%201/Chapter%201%20Notes.md)
 

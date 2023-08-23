@@ -107,7 +107,7 @@ This system is now out of date due to the hexadecimal system. But it used to be 
 
 To convert binary to octal, every **3 bit cluster** responds to a single octal digit.
 If the number of bits in the binary integer is not a multiple of 3, add zeros to the left.<br />
-![](Binary%20to%20Octal%20example.png) <br />
+![](Photos/Binary%20to%20Octal%20example.png) <br />
 [More on Octal System](https://byjus.com/maths/octal-number-system/)
 # Representing Negative Numbers
 A single bit is used to represent the sign of the number (+ or -) and the remaining bits to represent the  magnitude of the number (how positive or negative it is).  
