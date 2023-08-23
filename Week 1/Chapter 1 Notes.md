@@ -11,8 +11,8 @@
 - [Bytes]
 - [Hexadecimal Representation]
 	- [Hexadecimal Conversion to Decimal]
-	- [Decimal Conversion to Hexadecimal ]
-	- [Hexadecimal Conversion to Binary ]
+	- [Decimal Conversion to Hexadecimal]
+	- [Hexadecimal Conversion to Binary]
 - [Octal System]
 - [Representing Negative Numbers]
 ### Number Representations
@@ -23,7 +23,6 @@
 ![](Photos/Base%2010%20Equation.png) <br />
 ![](Photos/Example%20simplified.png) <br />
 ###### Theorem 1: 
-<br />
 ![](Photos/Theorem%201.png) <br />
 ![](Photos/Theorem%201%20Example.png) <br />
 ![](Photos/Theorem%201%20Example%20Colorized.png) <br />
