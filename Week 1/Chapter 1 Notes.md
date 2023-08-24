@@ -60,6 +60,7 @@ Should be really easy to understand
 ## Binary Multiplication
 ![](Photos/Binary%20Multiplication.png) <br />
 It should just be like regular multiplication.
+And the addition problem should play out like [Binary Addition](#Binary-Addition)
 # Bytes
 **Byte** - An 8 bit binary number with leading zeros allowed. There are 256 different types of bytes ranging from 0 (00000000) to 255 (11111111). <br />
 **Word** - A basic unit of storage that depends on the size of a particular computer. Words tend to be composed of 4 **(32 bit)** or 8 **(64 bit)** bytes. <br />
@@ -81,7 +82,7 @@ A byte can be represented by two hex-digits instead of 8 bits, and a 32-bit word
 	- ![](Photos/Find%20Remainder%20Decimal%20for%20the%20Remainder%20Hex.png)
 4) Repeat the steps until the quotient is equal to 0.
 ### Example:
-7562<sub>10</sub> to hex
+7562<sub>10</sub> to hex <br />
 ![](Photos/Decimal%20to%20Hexadecimal%20Example.png) <br />
 7562<sub>10</sub> = 1D8A<sub>16</sub> 
 
