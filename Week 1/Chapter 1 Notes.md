@@ -46,7 +46,7 @@ In this case: 32 + 16 + 4 + 2 = 54
 1) You are dividing each number by 2 plus a remainder
 2) If the number is a whole number *(ex: 1, 4, 6)* then the remainder will be 0. If the number is not a whole number *(ex: 1.75, 1.25)* then the remainder will be 1. If the number is not a whole number, round up to the nearest whole number *(ex: 1.75 -> 2)*.
 3) In order to get the binary result, start from the very bottom and work your way up. It'll be like this -> left most side (started from the bottom number) to the right most side (the top number). <br />
-![](Photos/Division%20Method.png)
+![](Photos/Division%20Method.png) <br />
 # Binary Arithmetic
 ## Binary Addition
 ![](Photos/Binary%20Addition%20Rules.png)
