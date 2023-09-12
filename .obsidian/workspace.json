@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 4/Quiz 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 4/Quiz 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md",
+                "file": "Week 4/Quiz 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Chapter 1 Notes.md"
+                "file": "Week 4/Quiz 1.md"
               }
             }
           },
@@ -164,21 +164,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b79cc2064e279ff",
+  "active": "ffd27874946a0456",
   "lastOpenFiles": [
+    "Week 1/Chapter 1 Notes.md",
+    "Week 4/Quiz 1.md",
+    "Week 4",
+    "Week 3",
+    "Week 2",
     "Week 1/Photos/Most-Significant Bit Example.png",
     "Week 1/Photos/Binary to Octal example.png",
     "Week 1/Pasted image 20230823015032.png",
     "Week 1/Photos/Octal System Examples.png",
     "README.md",
-    "Week 1/Chapter 1 Notes.md",
     "Week 1/Photos/Hexadecimal to Decimal Example 2.png",
     "Week 1/Photos/Binary to Hexadecimal Examples.png",
     "Week 1/Photos/Hexa to Decimal Example 1.png",
     "Week 1/Photos/Hexadecimal to Decimal equation.png",
     "Week 1/Photos/Find Remainder Decimal for the Remainder Hex.png",
     "Week 1/Pasted image 20230823012138.png",
-    "Week 1/Photos/Decimal to Hexadecimal Example.png",
     "Week 1/Photos",
     "Week 1",
     "LICENSE",
@@ -208,9 +211,6 @@
     "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
     "Module 7/Pearson Notes/14.6 - Object Conversion.md",
     "Module 9/Pearson Notes/Singular Photos",
-    "Module 9/Video Notes",
-    "Module 9/Pearson Notes",
-    "Module 9",
-    "All Programming Projects in Order"
+    "Module 9/Video Notes"
   ]
 }
