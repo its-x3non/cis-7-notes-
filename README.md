@@ -10,4 +10,4 @@ I am going to simplify the notes for you as best as I could for you if you don't
 - ### [Chapter 3](Week%202%20-%20Unit%202%20-%20Logic%20and%20Truth%20Table/Chapter%203%20Notes.md)
 
 ## [Week 3 Chapter Notes](Week%203%20-%20Unit%203%20-%20Sets)
-- ### [Chapter 7 Notes](Week%203%20-%20Unit%203%20-%20Sets/Chapter%207%20Notes.md)
+- ### [Chapter 7](Week%203%20-%20Unit%203%20-%20Sets/Chapter%207%20Notes.md)
