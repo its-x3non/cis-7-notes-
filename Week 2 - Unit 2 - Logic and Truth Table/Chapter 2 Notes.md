@@ -1,7 +1,7 @@
 # Chapter 2: Circuits - Notes Simplified
 ## Table of Contents
 - [Transistors and Switches](#Transistors-and-Switches)
-- [Basic Logic Gates: AND, OR, NOT](#Basic-Logic-Gates:-AND,-OR,-NOT)
+- [Basic Logic Gates](#Basic-Logic-Gates)
 	- [AND Gate](#AND-Gate)
 	- [OR Gate](#OR-Gate)
 	- [NOT Gate](#NOT-Gate)
@@ -12,7 +12,8 @@
 # Transistors and Switches
 **Transistor** - A digital switch that's used to either establish or break an electrical connection. <br />
 
-# Basic Logic Gates: AND, OR, NOT
+# Basic Logic Gates
+
 ## AND Gate
 The **AND Gate** takes 2 inputs (switches). If both switches have been pushed, then the output is "ON". <br />
 ![](Photos/Chapter%202/AND%20Gates/AND%20Gate%201.png) <br />
