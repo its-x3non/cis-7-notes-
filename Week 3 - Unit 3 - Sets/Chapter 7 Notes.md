@@ -8,7 +8,7 @@ There are different kinds of sets that could include elements like:
 - Both Negative and Positive Integers
 - Rational Numbers
 - Real Numbers
-- Letters
+- Letters <br />
 ![](Photos/Some%20Sets%20of%20Numbers.png) <br />
 We use **braces (curly brackets, aka these -> `{ }`)** to show the elements of a set.
 
