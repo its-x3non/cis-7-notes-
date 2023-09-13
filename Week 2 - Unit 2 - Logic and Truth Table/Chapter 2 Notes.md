@@ -35,7 +35,7 @@ The **OR Gate** also take 2 inputs, but is "ON" if at least 1 of the inputs is s
 ![](Photos/Chapter%202/OR%20Gates/OR%20Gate%20Diagram.png) <br />
 
 ## NOT Gate
-The **NOT Gate** only has 1 input, and is basically the opposite of it's input.
+The **NOT Gate** only has 1 input, and is basically the opposite of it's input. <br />
 ![](Photos/Chapter%202/NOT%20Gates/NOT%20Gate%20Diagram.png) <br />
 
 ## NAND Gate
