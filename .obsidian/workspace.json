@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4/Quiz 1.md",
+                "file": "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8198cace9950b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/Quiz 1.md",
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/Quiz 1.md",
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/Quiz 1.md"
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md"
               }
             }
           },
@@ -164,32 +177,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffd27874946a0456",
+  "active": "6b79cc2064e279ff",
   "lastOpenFiles": [
-    "Week 1/Chapter 1 Notes.md",
-    "Week 4/Quiz 1.md",
-    "Week 4",
-    "Week 3",
-    "Week 2",
-    "Week 1/Photos/Most-Significant Bit Example.png",
-    "Week 1/Photos/Binary to Octal example.png",
-    "Week 1/Pasted image 20230823015032.png",
-    "Week 1/Photos/Octal System Examples.png",
+    "Week 3 - Unit 3 - Sets/Photos/Set Example 1.png",
+    "Week 3 - Unit 3 - Sets/Pasted image 20230913144450.png",
+    "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
+    "Week 3 - Unit 3 - Sets/Photos/Some Sets of Numbers.png",
+    "Week 3 - Unit 3 - Sets/Photos",
+    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
+    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
+    "Week 2 - Unit 2 - Logic and Truth Table/Pasted image 20230912181157.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Example of the Laws of Boolean Algebra in Use.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Laws of Boolean Algrebra.png",
+    "Week 1 - Unit 1 - Number Representations/Chapter 1 Notes.md",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Truth Table for BASIC LOGIC GATES.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Basic Operators - Basic Logic Gates.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/XOR Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/XOR Gates/XOR Gate diagram.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates/NOR Gate Diagrams.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates/NAND Gate Truth Table.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOT Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/OR Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/AND Gates",
+    "Week 2 - Unit 2 - Logic and Truth Table/Photos",
+    "Week 4 - Unit 4 - Counting/Quiz 1.md",
     "README.md",
-    "Week 1/Photos/Hexadecimal to Decimal Example 2.png",
-    "Week 1/Photos/Binary to Hexadecimal Examples.png",
-    "Week 1/Photos/Hexa to Decimal Example 1.png",
-    "Week 1/Photos/Hexadecimal to Decimal equation.png",
-    "Week 1/Photos/Find Remainder Decimal for the Remainder Hex.png",
-    "Week 1/Pasted image 20230823012138.png",
-    "Week 1/Photos",
-    "Week 1",
-    "LICENSE",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "FINAL/Final Exam.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
     "Module 10/Pearson Notes/15.2 - Protected Members and Class Access.md",
-    "FINAL",
     "Module 10/Pearson Notes/15.1 - What is Inheritance.md",
     "Module 9/Pearson Notes/13.13 - Focus on Problem Solving and Program Design.md",
     "Module 9/Pearson Notes/13.14 - Focus on Object-Oriented Programming.md",
@@ -204,13 +224,6 @@
     "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
     "! templates and stuff for me to remember.md",
     "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md",
-    "Module 11/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md",
-    "Module 11/Pearson Notes/Singular Photos",
-    "Module 11/Pearson Notes/15.6 - Polymorphism and Virtual Member Functions.md",
-    "Module 12/Pearson Notes/16.4 - Class Templates.md",
-    "MIDTERM (Modules 1-5)/Midterm Exam Q2.md",
-    "Module 7/Pearson Notes/14.6 - Object Conversion.md",
-    "Module 9/Pearson Notes/Singular Photos",
-    "Module 9/Video Notes"
+    "Module 11/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md"
   ]
 }

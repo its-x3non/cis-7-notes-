@@ -1,4 +1,4 @@
-# Chapter 1 Notes Simplified
+# Chapter 1: Number Representations - Notes Simplified
 ## Table of Contents
 - [Number Representations](#Number-Representations)
 	- [Binary Representation](#Binary-Representation)
