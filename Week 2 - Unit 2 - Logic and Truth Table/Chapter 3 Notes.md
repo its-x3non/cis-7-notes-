@@ -20,7 +20,7 @@ The basic operators of Boolean algebra correspond to the Basic Logic Gates. <br 
 # Truth Table
 In logic, variables may take on one of **two truth values (T or F)**. These values are manipulated and combined by various logical operators. The actions of these logical operators are typically defined using **truth tables**, in a manner identical to the use of these truth tables in defining the actions of logic gates. <br />
 ![](Photos/Chapter%203/Truth%20Table%20for%20BASIC%20LOGIC%20GATES.png) <br />
-From LEFT to RIGHT: [AND](../../Chapter%202%20Notes.md#AND-Gate), [OR](../../Chapter%202%20Notes.md#OR-Gate), [NOT](../../Chapter%202%20Notes.md#NOT-Gate). <br />
+From LEFT to RIGHT: [AND](Chapter%202%20Notes.md#AND-Gate), [OR](Chapter%202%20Notes.md#OR-Gate), [NOT](Chapter%202%20Notes.md#NOT-Gate). <br />
 
 ## AND Rules
 | Input 1 | Input 2 | AND   | Output |
