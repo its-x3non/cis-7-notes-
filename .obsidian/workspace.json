@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -177,11 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b79cc2064e279ff",
+  "active": "a8198cace9950b37",
   "lastOpenFiles": [
+    "Week 1 - Unit 1 - Number Representations/Chapter 1 Notes.md",
+    "README.md",
+    "Week 2 - Unit 2 - Logic.md",
+    "Week.md",
+    "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
     "Week 3 - Unit 3 - Sets/Photos/Set Example 1.png",
     "Week 3 - Unit 3 - Sets/Pasted image 20230913144450.png",
-    "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
     "Week 3 - Unit 3 - Sets/Photos/Some Sets of Numbers.png",
     "Week 3 - Unit 3 - Sets/Photos",
     "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
@@ -189,7 +193,6 @@
     "Week 2 - Unit 2 - Logic and Truth Table/Pasted image 20230912181157.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Example of the Laws of Boolean Algebra in Use.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Laws of Boolean Algrebra.png",
-    "Week 1 - Unit 1 - Number Representations/Chapter 1 Notes.md",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Truth Table for BASIC LOGIC GATES.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Basic Operators - Basic Logic Gates.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3",
@@ -198,14 +201,12 @@
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/XOR Gates/XOR Gate diagram.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates/NOR Gate Diagrams.png",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates/NAND Gate Truth Table.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOT Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/OR Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/AND Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos",
     "Week 4 - Unit 4 - Counting/Quiz 1.md",
-    "README.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "FINAL/Final Exam.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
@@ -223,7 +224,6 @@
     "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
     "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
     "! templates and stuff for me to remember.md",
-    "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md",
-    "Module 11/Pearson Notes/15.7 - Abstract Base Classes and Pure Virtual Functions.md"
+    "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md"
   ]
 }
