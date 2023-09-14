@@ -32,7 +32,28 @@ When you declare a set variable in computing, it is an empty set until you put s
 ![](Photos/Set%20Example%201.png) <br />
 
 ## Set Builder Notation
+When we need to **describe which elements are in the set** instead of just leaving it to the reader to figure out how to continue a list, we use **set-builder notation.** <br />
+![](Photos/set%20builder%20notation.png) <br />
+Where v is a variable and S is a set. The braces { and } tell us to say “the set of" and the vertical bar '|' is read as “such that." We sometimes use a colon “:" in place of the vertical bar. <br />
+`{v| condition on v}` is read as “the set of v such that" the condition on v holds. <br />
+`{v ∈ S| condition on v}` is read as “the set of v in S such that" the condition on v holds. <br />
 
 
+## Set Operations
+### Union ∪
+![](Photos/Union%20venn%20diagram.png) <br />
+![](Photos/Union%20example.png)
 
+### Intersection ⋂
+![](Photos/intersection%20venn%20diagram.png) <br />
+![](Photos/Intersection%20example.png)
 
+### Complement ∁
+![](Photos/Compliment%20venn%20diagram.png)
+![](Photos/Complement%20example.png) <br />
+So for example. if set A already has elements that exists in set U, you just get rid of the same elements in A within set U.
+
+### Difference
+![](Difference%20venn%20diagram.png) <br />
+![](Photos/Difference%20example.png) <br />
+I feel like this is self explanatory. But pretty much, if set A has elements that already exist or don't exist on set B, you get rid of the same elements within the set, then the remaining elements will remain.

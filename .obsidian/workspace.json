@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md"
+                "file": "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md"
               }
             }
           },
@@ -179,28 +179,29 @@
   },
   "active": "a8198cace9950b37",
   "lastOpenFiles": [
+    "Week 3 - Unit 3 - Sets/Difference venn diagram.png",
+    "Week 3 - Unit 3 - Sets/Photos/Compliment venn diagram.png",
+    "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
+    "Week 3 - Unit 3 - Sets/Photos/intersection venn diagram.png",
+    "Week 3 - Unit 3 - Sets/Photos/Union venn diagram.png",
+    "Week 3 - Unit 3 - Sets/Photos/Difference example.png",
+    "Week 3 - Unit 3 - Sets/Photos/Union example.png",
+    "Week 3 - Unit 3 - Sets/Photos/Complement example.png",
+    "Week 3 - Unit 3 - Sets/Photos/Intersection example.png",
+    "Week 3 - Unit 3 - Sets/Photos/set builder notation.png",
+    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
+    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
     "README.md",
     "Week 1 - Unit 1 - Number Representations/Chapter 1 Notes.md",
     "Week 2 - Unit 2 - Logic.md",
     "Week.md",
-    "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
     "Week 3 - Unit 3 - Sets/Photos/Set Example 1.png",
     "Week 3 - Unit 3 - Sets/Pasted image 20230913144450.png",
-    "Week 3 - Unit 3 - Sets/Photos/Some Sets of Numbers.png",
     "Week 3 - Unit 3 - Sets/Photos",
-    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
-    "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
-    "Week 2 - Unit 2 - Logic and Truth Table/Pasted image 20230912181157.png",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Example of the Laws of Boolean Algebra in Use.png",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Laws of Boolean Algrebra.png",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Truth Table for BASIC LOGIC GATES.png",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3/Basic Operators - Basic Logic Gates.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 3",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/XOR Gates",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/XOR Gates/XOR Gate diagram.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOR Gates/NOR Gate Diagrams.png",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOT Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/OR Gates",
@@ -223,7 +224,6 @@
     "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
     "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
     "Module 7/Pearson Notes/14.1 - Instance and Static Members.md",
-    "! templates and stuff for me to remember.md",
-    "Module 11/Pearson Notes/15.8 - Multiple Inheritance.md"
+    "! templates and stuff for me to remember.md"
   ]
 }
