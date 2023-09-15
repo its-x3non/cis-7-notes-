@@ -38,7 +38,7 @@ Where v is a variable and S is a set. The braces { and } tell us to say “the s
 `{v| condition on v}` is read as “the set of v such that" the condition on v holds. <br />
 `{v ∈ S| condition on v}` is read as “the set of v in S such that" the condition on v holds. <br />
 
-
+## Venn Diagrams
 ## Set Operations
 ### Union ∪
 ![](Photos/Union%20venn%20diagram.png) <br />
@@ -54,6 +54,32 @@ Where v is a variable and S is a set. The braces { and } tell us to say “the s
 So for example. if set A already has elements that exists in set U, you just get rid of the same elements in A within set U.
 
 ### Difference
-![](Difference%20venn%20diagram.png) <br />
+![](Photos/Difference%20venn%20diagram.png) <br />
 ![](Photos/Difference%20example.png) <br />
-I feel like this is self explanatory. But pretty much, if set A has elements that already exist or don't exist on set B, you get rid of the same elements within the set, then the remaining elements will remain.
+
+### Symmetric Difference
+![](Photos/Symmetric%20difference.png) <br />
+If same elements exist within 2 sets, get rid of the same elements on both sets then combine the remaining elements together.
+
+## Power Sets
+If A is a set, then the power set P(A) is the set of all subsets of A. <br />
+If A = {1, 2} then P(A) = {∅, {1}, {2}, {1, 2}}. The elements of P(A) are sets, not numbers. In general, the cardinality of the power set |P(A)| = 2|A| and sometimes we use 2A instead of P(A) to denote the power set of A. <br />
+
+#### For a set S={a,b,c,d} let us calculate the subsets <br />
+**Subsets with 0 elements -** {∅} (the empty set) <br />
+**Subsets with 1 element −** {a}, {b}, {c}, {d} <br />
+**Subsets with 2 elements −** {a,b}, {a,c}, {a,d}, {b,c}, {b,d}, {c,d} <br />
+**Subsets with 3 elements −** {a,b,c}, {a,b,d}, {a,c,d}, {b,c,d} <br />
+**Subsets with 4 elements −** {a,b,c,d} <br />
+| P(S) |=24=16 <br />
+
+#### Find the P(S), given S = {2, 3, 4}. <br />
+**Subsets w/ 0 elements −** {∅} (the empty set) <br />
+**Subsets w/ 1 element -** {2}, {3}, {4} <br />
+**Subsets w/ 2 elements -** {2, 3}, {2,4}, {3, 4} <br />
+**Subsets w/ 3 elements -** {2, 3, 4} <br />
+| P(S) | = 23 = 8 <br />
+
+## Cartesian Product
+
+## Computer Representation of Sets

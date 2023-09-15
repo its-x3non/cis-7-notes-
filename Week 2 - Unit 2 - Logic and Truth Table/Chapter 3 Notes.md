@@ -111,6 +111,21 @@ For Example:
 | ----------------- | ----------------- |
 | A ∧ ¬B ∧ ¬(B V C) | ¬ outside (B V C) |
 | (A ∧ B) V ¬C                  | Both a disjunction and one clause, *A ∧ B* is a conjunction                  |
+A Boolean expression is in **CNF** if:
+1. The variables within each term are **OR**ed together,
+2. The terms are **AND**ed together, and
+3. Every variable or its complement is represented in every term (i.e. either A or ~A is in each term, B or ⌐B is in each term, etc.).
+4. No parenthesis - other than those separating the terms – or other Boolean operations appear in the expression.
+
+**The following are NOT in CNF:**
+1. ⌐AB⌐C + ABC
+**Reason:** Terms are **OR**ed, variables are **AND**ed. (This is in DNF.)
+2. ⌐A(⌐B+C)(B+⌐C)
+**Reason:** Not every term has all variables. (First term, ~A, is missing a B or ⌐B and C or ⌐C. Second and third terms each missing A or ⌐A.)
+3. ⌐C(⌐A(⌐B+AC)+B)
+**Reason:** Improper use of parentheses.
+4. (A(+)B(+)C)(⌐A(+)⌐B(+)⌐C)
+**Reason:** Other Boolean operators present. The '(+)' represents 'exclusive-or'.
 
 #### Double Negation:  
 1. P↔¬(¬P)P↔¬(¬P)  
@@ -133,3 +148,32 @@ We get:
 
 ## Disjunctive Normal Form
 A Boolean formula is in **Disjunctive Normal Form (DNF)** if its a disjunction (V) of clauses, where each clauses is a conjunction (⋀) of variables.
+
+### Formulae in DNF
+| Formula      | Clauses |
+| ------------ | ------- |
+| ¬B V (A ∧ C) | ¬B, A ∧ C         |
+| (A ∧ B ∧ C) V (¬B ∧ A ∧ D) V (F ∧ ¬E) | (A ∧ B ∧ C), (¬B ∧ A ∧ D),  (F ∧ ¬E)         |
+| A ∧ B          | A ∧ B |
+| A V B           | A, B        |
+
+### Formulae in DNF
+| Formula          | Reason                                      |
+| ---------------- | ------------------------------------------- |
+| A ∧ ¬B ∧ (B V C) | This is in CNF and (B V C) is a disjunction |
+| (A ∧ B V C) V ¬C                | (A ∧ B V C) is not a proper clause                                            |
+A Boolean expression is in **disjunctive normal form (DNF)** if:
+1. The variables within each term are **AND**ed together,
+2. The terms are **OR**ed together, and
+3. Every variable or its complement is represented in every term, (i.e. either A or ⌐A is in each term, B or ⌐B is in each term, etc.).
+4. No parentheses or other Boolean operations appear in the expression
+
+**The following are NOT in DNF:** <br />
+1. (⌐A+B+C)(A+B+⌐C)
+**Reason:** Terms are ANDed, variables are **OR**ed. (This is actually in conjunctive normal form)
+2. ⌐AB + AB⌐C
+**Reason:** Not every term has all variables. (First term is missing a C or ⌐C.)
+3. A(BC + ⌐B⌐C)
+**Reason:** Parentheses present.
+4. ABC (+) ⌐A⌐B⌐C
+**Reason:** Other Boolean operators present. The '(+)' represents 'exclusive-or'.
