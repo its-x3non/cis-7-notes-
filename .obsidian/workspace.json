@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "a8198cace9950b37",
   "lastOpenFiles": [
+    "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
     "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
     "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
     "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
-    "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
     "Week 3 - Unit 3 - Sets/Photos/Symmetric difference.png",
     "Week 3 - Unit 3 - Sets/Photos/Difference venn diagram.png",
     "Week 3 - Unit 3 - Sets/Photos/Compliment venn diagram.png",
