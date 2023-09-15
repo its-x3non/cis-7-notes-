@@ -13,4 +13,5 @@ I am going to simplify the notes for you as best as I could for you if you don't
 - ### [Chapter 7](Week%203%20-%20Unit%203%20-%20Sets/Chapter%207%20Notes.md)
 
 ## [Week 4 Chapter 8 (Part 1) Notes](Week%204%20-%20Unit%204%20-%20Counting)
-- ### [Chapter 8](Week%204%20-%20Unit%204%20-%20Counting/Chapter%208%20(Part%201)%20Notes.md)
+- ### [Quiz 1](Week%204%20-%20Unit%204%20-%20Counting/Quiz%201.md)
+- ### [Chapter 8 (Part 1)](Week%204%20-%20Unit%204%20-%20Counting/Chapter%208%20(Part%201)%20Notes.md)
