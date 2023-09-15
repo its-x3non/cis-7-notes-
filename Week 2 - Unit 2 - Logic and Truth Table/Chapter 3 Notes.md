@@ -1,4 +1,3 @@
-# Chapter 3: Logic - Notes Simplified
 ## Table of Contents
 - [Truth Table](#Truth-Table)
 	- [AND Rules](#AND-Rules)
@@ -14,6 +13,7 @@
 		- [Formulae NOT in CNF](#Formulae-NOT-in-CNF)
 	- [Disjunctive Normal Form](#Disjunctive-Normal-Form)
 ***
+# Chapter 3: Logic - Notes Simplified
 The basic operators of Boolean algebra correspond to the Basic Logic Gates. <br />
 ![](Photos/Chapter%203/Basic%20Operators%20-%20Basic%20Logic%20Gates.png) <br />
 

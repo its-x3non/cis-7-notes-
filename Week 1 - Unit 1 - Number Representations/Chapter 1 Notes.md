@@ -1,4 +1,3 @@
-# Chapter 1: Number Representations - Notes Simplified
 ## Table of Contents
 - [Number Representations](#Number-Representations)
 	- [Binary Representation](#Binary-Representation)
@@ -17,6 +16,8 @@
 	- [Binary Conversion to Hexadecimal](#Binary-Conversion-to-Hexadecimal)
 - [Octal System](#Octal-System)
 - [Representing Negative Numbers](#Representing-Negative-Numbers)
+***
+# Chapter 1: Number Representations - Notes Simplified
 # Number Representations
 **Binary (Base 2 Number System)** - 1s and 0s <br />
 **Base 10 (Decimal / *positive* counting numbers)** - 1, 2, 3 and so on

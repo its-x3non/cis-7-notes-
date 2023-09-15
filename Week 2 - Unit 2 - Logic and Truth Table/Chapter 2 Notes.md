@@ -1,4 +1,3 @@
-# Chapter 2: Circuits - Notes Simplified
 ## Table of Contents
 - [Transistors and Switches](#Transistors-and-Switches)
 - [Basic Logic Gates](#Basic-Logic-Gates)
@@ -9,6 +8,7 @@
 	- [NOR Gate](#NOR-Gate)
 	- [XOR Gate](#XOR-Gate)
 ***
+# Chapter 2: Circuits - Notes Simplified
 # Transistors and Switches
 **Transistor** - A digital switch that's used to either establish or break an electrical connection. <br />
 

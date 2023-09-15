@@ -1,5 +1,16 @@
 ## Table of Contents
-
+- Set Basics
+	- Set Builder Notation
+	- Venn Diagrams
+	- Set Operations
+		- Union
+		- Intersection
+		- Complement
+		- Difference
+		- Symmetric Difference
+	- Power Sets
+- Cartesian Product
+- Computer Representation of Sets
 ***
 # Chapter 7: Sets - Notes Simplified
 **Sets** - An unordered collection of objects or **elements** <br />
@@ -40,15 +51,15 @@ Where v is a variable and S is a set. The braces { and } tell us to say “the s
 
 ## Venn Diagrams
 ## Set Operations
-### Union ∪
+### Union
 ![](Photos/Union%20venn%20diagram.png) <br />
 ![](Photos/Union%20example.png)
 
-### Intersection ⋂
+### Intersection
 ![](Photos/intersection%20venn%20diagram.png) <br />
 ![](Photos/Intersection%20example.png)
 
-### Complement ∁
+### Complement
 ![](Photos/Compliment%20venn%20diagram.png)
 ![](Photos/Complement%20example.png) <br />
 So for example. if set A already has elements that exists in set U, you just get rid of the same elements in A within set U.
@@ -80,6 +91,6 @@ If A = {1, 2} then P(A) = {∅, {1}, {2}, {1, 2}}. The elements of P(A) are sets
 **Subsets w/ 3 elements -** {2, 3, 4} <br />
 | P(S) | = 23 = 8 <br />
 
-## Cartesian Product
+# Cartesian Product
 
-## Computer Representation of Sets
+# Computer Representation of Sets
