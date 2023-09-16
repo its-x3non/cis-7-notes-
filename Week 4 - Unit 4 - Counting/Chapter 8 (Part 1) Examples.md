@@ -157,8 +157,7 @@ Suppose that there are **51 students** in a discrete structures class. How many 
 ***
 ***
 # Permutation Example - Errands
-One had to run four errands, a trip each to (1) the grocery store, (2) the dry cleaners,  
-(3) the hardware store, and (4) the post office. One would have to decide in which order these errands would be performed. Any such ordering of these errands is a permutation. <br />
+One had to run four errands, a trip each to (1) the grocery store, (2) the dry cleaners, (3) the hardware store, and (4) the post office. One would have to decide in which order these errands would be performed. Any such ordering of these errands is a permutation. <br />
 **Each permutation may have an associated cost** (e.g., the total driving distance if the errands are  processed in a specific order). and one often wants to minimize this cost. A brute force approach involves listing all possible permutations, determining costs, and selecting the least costly one. <br />
 How many permutations could there be? One could choose ***any of the four errands*** to start with, then ***any of the three remaining errands second, then either of the two remaining errands third, and finally the last remaining errand fourth***. Note that these choices are made consecutively, so the **[Product Rule](Chapter%208%20(Part%201)%20Notes.md#Product-Rule)** applies: There are four possibilities for the first choice, three for the second, two for the third, and one choice for the last, for a total of 4·3·2·1 = 4! = 24 total possibilities (permutations). If there were n errands to run (or n objects to order), the number of possible permutations is n!.
 

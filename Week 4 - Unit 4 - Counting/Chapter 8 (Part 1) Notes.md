@@ -37,7 +37,7 @@ In the description of the [Sum Rule](#Sum-Rule), we assumed that the **sets of a
 In situations when a **single choice must be made from sets of alternatives which are not disjoint**.
 ## Inclusion-Exclusion Principle
 - If A and B are finite sets then **|A∪B| = |A|+|B| −|A∩B|**.
-## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.6)
+## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.5)
 ***
 # The Pigeonhole Principle
 If **`k + 1` or more objects are placed in k boxes**, then there must exist a box that **contains two or more objects**. <br />
