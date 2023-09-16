@@ -61,7 +61,8 @@ Note that **r-permutations** are a generalization of permutations; indeed, and *
 ## [Examples for Permutation](Chapter%208%20(Part%201)%20Examples.md#Permutation-Example---Errands)
 ***
 # External Resources
-## Here are a list of outside resources that might help you better understand Chapter 8 (Part 1):
+## Here are a list of outside resources that might help you better understand Chapter 8 (Part 1)
+I recommend that you right click and open in new tab for these links (it's better than going back and forth on the same tab)
 ### Inclusion Exclusion Principle
 - #### [Wolfram MathWorld](https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html)
 - #### [GeeksforGeeks - Includes Programming Applications](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
