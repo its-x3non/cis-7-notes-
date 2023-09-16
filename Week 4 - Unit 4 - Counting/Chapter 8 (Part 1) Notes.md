@@ -63,14 +63,14 @@ Note that **r-permutations** are a generalization of permutations; indeed, and *
 # External Resources
 ## Here are a list of outside resources that might help you better understand Chapter 8 (Part 1):
 ### Inclusion Exclusion Principle
-- <h4 href="https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html" target="_blank">Wolfram MathWorld</h4>
-- <h4 href="https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/" target="_blank">GeeksforGeeks - Includes Programming Applications</h4>
+- #### [Wolfram MathWorld](https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html)
+- #### [GeeksforGeeks - Includes Programming Applications](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
 
 ### The Pigeonhole Principle
-- <h4 href="https://www.baeldung.com/cs/pigeonhole-principle" target="_blank">Baeldung - Overview + Generalized</h4>
-- <h4 href="https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/" target="_blank">GeeksforGeeks</h4>
-	- <h5 href="https://www.geeksforgeeks.org/pigeonhole-sort/" target="_blank">Pigeonhole Sort just for fun :3 (GeeksforGeeks)</h5>
+- #### [Baeldung - Overview + Generalized](https://www.baeldung.com/cs/pigeonhole-principle)
+- #### [GeeksforGeeks](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
+	- ##### [Pigeonhole Sort just for fun :3 (GeeksforGeeks)](https://www.geeksforgeeks.org/pigeonhole-sort/)
 
 ### Permutation
-- <h4 href="https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula" target="_blank">Khan Academy - Permutation Formula</h4>
-- <h4 href="https://byjus.com/maths/permutation/" target="_blank">BYJU's - Definition, Formula, Types, and Examples</h4>
+- #### [Khan Academy - Permutation Formula](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula)
+- #### [BYJU's - Definition, Formula, Types, and Examples](https://byjus.com/maths/permutation/)
