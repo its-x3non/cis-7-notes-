@@ -30,26 +30,26 @@ If in addition Bob were to choose a drink and there were eight possible drinks, 
 If A and B are **finite sets** then the number of ways of choosing an element from **A and an element from B is |A × B| = |A| × |B|.**
 - The product rule is applicable when **one must make two (or more) consecutive choices from sets of alternatives.**
 	- **General Product Rule:** If A<sub>1</sub>, A<sub>2</sub>, . . . , A<sub>n</sub> are finite sets, then the number of ways of choosing an element from A<sub>1</sub>, A<sub>2</sub>, . . . , and an element from A<sub>n</sub> is **|A<sub>1</sub> × A<sub>2</sub> ×· · · × A<sub>n</sub>| = |A<sub>1</sub>| × |A<sub>2</sub>| ×  · · · × |A<sub>n</sub>|.**
-## [Examples for these Rules](Chapter%208%20(Part%201)%20Examples.md#Example-8.4---Picking-Students)
+## [Examples for these Rules](Chapter%208%20(Part%201)%20Examples.md#Example-84---Picking-Students)
 ***
 # The Inclusion-Exclusion Principle
 In the description of the [Sum Rule](#Sum-Rule), we assumed that the **sets of alternatives from which one must make a single choice were <u>mutually disjoint</u>**, i.e., that ***they did not share any common elements***. <br />
 In situations when a **single choice must be made from sets of alternatives which are not disjoint**.
 ## Inclusion-Exclusion Principle
 - If A and B are finite sets then **|A∪B| = |A|+|B| −|A∩B|**.
-## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.5)
+## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-85)
 ***
 # The Pigeonhole Principle
 If **`k + 1` or more objects are placed in k boxes**, then there must exist a box that **contains two or more objects**. <br />
 ### For example:
 - If **13 or more people gather in a room**, then it is guaranteed that **at least two of them share the same birth month**. While this may happen in a gathering of 12 or fewer people, it is not guaranteed.
-## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.8)
+## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-88)
 ## Generalized Pigeonhole Principle
 Suppose that {x<sub>1</sub>, x<sub>2</sub>, . . . , x<sub>n</sub>} is a collection of n numbers, and let x be the average of these numbers, i.e., <br />
 ![](Photos/Generalized%20Pigeonhole%20Principle%20Equation.png) <br />
 Then it clearly cannot be the case that every number is less than the average; in other words, **there must exist at least one number that is at least as large as the average**.
 - **Generalized Pigeonhole:** Principle If N objects are placed in k boxes, then there must exist a box that contains \[N/k\] or more objects.
-## [Examples for this Generalized Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.13)
+## [Examples for this Generalized Principle](Chapter%208%20(Part%201)%20Examples.md#Example-813)
 ***
 # Permutation
 **Permutation** - An **ordered arrangement of a set (or subset) of objects**.
