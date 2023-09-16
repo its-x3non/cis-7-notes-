@@ -2,6 +2,8 @@
 - Example 1 (Sum Rule)
 - Example 2 (Product Rule)
 - Inclusion-Exclusion Principle
+- The Pigeonhole Principle
+	- Generalized Pigeonhole Principle
 ***
 > Examples are provided within another page, click the corresponding link below each section
 # Chapter 8 (Part 1): Counting - Notes Simplified
@@ -37,4 +39,11 @@ In situations when a **single choice must be made from sets of alternatives whic
 ***
 # The Pigeonhole Principle
 If **`k + 1` or more objects are placed in k boxes**, then there must exist a box that **contains two or more objects**.
+**For example:**
+- If **13 or more people gather in a room**, then it is guaranteed that **at least two of them share the same birth month**. While this may happen in a gathering of 12 or fewer people, it is not guaranteed.
+## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.8)
+## Generalized Pigeonhole Principle
+Suppose that {x<sub>1</sub>, x<sub>2</sub>, . . . , x<sub>n</sub>} is a collection of n numbers, and let x be the average of these numbers, i.e., <br />
+![](Photos/Generalized%20Pigeonhole%20Principle%20Equation.png) <br />
+Then it clearly cannot be the case that every number is less than the average; in other words, **there must exist at least one number that is at least as large as the average**.
 - **Generalized Pigeonhole:** Principle If N objects are placed in k boxes, then there must exist a box that contains \[N/k\] or more objects.

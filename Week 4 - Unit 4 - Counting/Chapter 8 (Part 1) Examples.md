@@ -1,3 +1,18 @@
+## Table of Contents
+- Example 8.1
+- Example 8.2
+- Example 8.3
+- Example 8.4 - Picking Students
+- Example 8.5
+- Example 8.6
+- Example 8.7
+- Example 8.8
+- Example 8.9
+- Example 8.10
+- Example 8.11
+- Example 8.12
+- Example 8.13
+***
 # Example 8.1
 Personal Identification Numbers or PINs are entered on a numeric keypad and, hence made up entirely of digits. The PINs on our office locks are required to be exactly 4 digits. How many different PINs are possible? <br />
 <u>The set of digits, D = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 has cardinality 10.</u> Each PIN corresponds to an element of **D × D × D × D**. There are **10<sup>4</sup> = 10,000** different PINs.
@@ -27,6 +42,7 @@ Passwords are often composed of alpha-numeric characters, a, b, ..., z, 0, 1, 2,
 Since **positive integers in two’s complement must have a 0 in the leftmost position**, we have only **15 places to represent the magnitude of the integer.** The largest integer we can represent  
 is **0111 1111 1111 1111 = 2<sup>15</sup> − 1 = 32767**
 ***
+# Read About the [Product Rule](Chapter%208%20(Part%201)%20Notes.md#Product-Rule) and the [Sum Rule](Chapter%208%20(Part%201)%20Notes.md#Sum-Rule) in the Notes Before Going to the Next Examples
 ***
 # Example 8.4 - Picking Students
 Suppose that there are three sections of a discrete structures class containing 73, 64, and 41 students, respectively.  
@@ -42,6 +58,7 @@ Suppose that there are three sections of a discrete structures class containing 
 - **Each set of 6 students appears** in this list **6! = 6 · 5 · 4 · 3 · 2 · 1** times so the number of sets is of six students out of the 178 is  
 	- This is an example of **combinations**, which is discussed in more detail in Section 8.5.
 ***
+# Read About the [Inclusion-Exclusion Principle](Chapter%208%20(Part%201)%20Notes.md#Inclusion-Exclusion-Principle) in the Notes Before Going to the Next Examples
 ***
 # Example 8.5
 More Passwords Suppose passwords are restricted to **6 case-sensitive alpha-numeric characters** and **must contain at least 1 digit and at least 1 letter**. How many are there?
@@ -87,6 +104,7 @@ How many **positive integers between 1000 and 9999 inclusive** (There are 9000 c
 	- ### h) Are divisible by 5 and 7? 
 		- This is the same as the number divisible by **35 which is 257**
 ***
+# Read About the [Pigeonhole Principle](Chapter%208%20(Part%201)%20Notes.md#The-Pigeonhole-Principle) in the Notes Before Going to the Next Examples
 ***
 # Example 8.8
 Suppose that there are **102 students in two sections of discrete structures**. If they all take the final, will **at least two of them get the same grade**?  
@@ -97,3 +115,30 @@ If I use the last **two digits of their social security numbers as a code to pos
 - There are 1**00 2-digit codes, 00 through 99** so by the time I **list the first 101 students there will be two with the same code**.
 ***
 # Example 8.10
+If a drawer contains **12 red socks and 12 blue socks** and I pull some socks out in the dark,  
+## a) How many must I pull out to be sure of having a pair?  
+- **3** because there are only **2 colors**.
+## b) How many must I pull out to be sure of having a pair of red socks?  
+- **14** because I might pull out **all the blue ones and just 2 red ones**.  
+## c) How many must I pull out to be sure of having at least one of each color?  
+- **13** because I might pull out all **12 of one color and just one of the other color**.
+***
+# Example 8.11
+**Every integer n** has a multiple that has only 0s and 1s in its decimal expansion.
+## Proof
+Consider the n + 1 numbers 1, 11, . . . , 11111...11 where the last number has (n + 1) ones. If we evaluate each of these numbers <u>mod n</u>, two of them must give the same value as there are only n possible results, 0, . . . , n − 1. If then a − b is divisible by n. So take the two numbers that result in the same value and subtract the smaller from the larger. The result is a multiple of n and has only 0s and 1s in its decimal expansion.
+### Example
+Take n = 6. <br />
+1 mod 6 = 1  <br />
+11 mod 6 = 5  <br />
+111 mod 6 = 3  <br />
+1111 mod 6 = 1  <br />
+so 1111 − 1 = 1110 is a multiple of 6. <br />
+***
+# Example 8.12
+In any set of **n + 1 positive integers not exceeding 2n**, there must be one integer that divides another.  <br />
+Write each of the n + 1 integers as a power of 2 times an odd integer, a<sub>j</sub> = 2e<sub>j</sub> q<sub>j</sub>. <br />  
+Then q<sub>1</sub> . . . q<sub>n+1</sub> are **n+ 1 odd integers less than 2n**. Two of them must be the same.  <br />
+One of the corresponding a<sub>j</sub>s divides the other. <br />
+***
+***

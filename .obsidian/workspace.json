@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248,
-    "collapsed": true
+    "width": 248
   },
   "right": {
     "id": "fe012f1645ae99cf",
@@ -190,10 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8198cace9950b37",
+  "active": "ffd27874946a0456",
   "lastOpenFiles": [
     "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
     "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
+    "Week 4 - Unit 4 - Counting/Photos",
+    "Week 4 - Unit 4 - Counting/Photos/Generalized Pigeonhole Principle Equation.png",
     "Week 3 - Unit 3 - Sets/Chapter 7 Notes.md",
     "Week 2 - Unit 2 - Logic and Truth Table/Chapter 3 Notes.md",
     "Week 2 - Unit 2 - Logic and Truth Table/Chapter 2 Notes.md",
@@ -209,7 +209,6 @@
     "Week 3 - Unit 3 - Sets/Photos/Union example.png",
     "Week 3 - Unit 3 - Sets/Photos/Complement example.png",
     "Week 3 - Unit 3 - Sets/Photos/Intersection example.png",
-    "Week 3 - Unit 3 - Sets/Photos/set builder notation.png",
     "Week 2 - Unit 2 - Logic.md",
     "Week.md",
     "Week 3 - Unit 3 - Sets/Photos",
@@ -221,7 +220,6 @@
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOT Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/OR Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/AND Gates",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "FINAL/Final Exam.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
@@ -236,7 +234,6 @@
     "Module 9/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
     "Module 9/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
     "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
-    "Module 7/Pearson Notes/14.2 - Friends of Classes.md",
-    "Module 7/Pearson Notes/14.1 - Instance and Static Members.md"
+    "Module 7/Pearson Notes/14.2 - Friends of Classes.md"
   ]
 }
