@@ -12,6 +12,10 @@
 - Example 8.11
 - Example 8.12
 - Example 8.13
+- Permutation Example - Errands
+- Example 8.14
+- Example 8.15
+- Example 8.16
 ***
 # Example 8.1
 Personal Identification Numbers or PINs are entered on a numeric keypad and, hence made up entirely of digits. The PINs on our office locks are required to be exactly 4 digits. How many different PINs are possible? <br />
@@ -141,4 +145,48 @@ Write each of the n + 1 integers as a power of 2 times an odd integer, a<sub>j</
 Then q<sub>1</sub> . . . q<sub>n+1</sub> are **n+ 1 odd integers less than 2n**. Two of them must be the same.  <br />
 One of the corresponding a<sub>j</sub>s divides the other. <br />
 ***
+***
+# Example 8.13
+Suppose that there are **51 students** in a discrete structures class. How many students are guaranteed to **have birthdays in the same month**? (In particular, what is the largest number of students that are guaranteed to have the same birth month?)  
+- 51/12 = 5 students are guaranteed to have birthday the same month.
+***
+# Read About the [Permutation](Chapter%208%20(Part%201)%20Notes.md#Permutation) in the Notes Before Going to the Next Examples
+***
+# Permutation Example - Errands
+One had to run four errands, a trip each to (1) the grocery store, (2) the dry cleaners,  
+(3) the hardware store, and (4) the post office. One would have to decide in which order these errands would be performed. Any such ordering of these errands is a permutation. <br />
+**Each permutation may have an associated cost** (e.g., the total driving distance if the errands are  processed in a specific order). and one often wants to minimize this cost. A brute force approach involves listing all possible permutations, determining costs, and selecting the least costly one. <br />
+How many permutations could there be? One could choose ***any of the four errands*** to start with, then ***any of the three remaining errands second, then either of the two remaining errands third, and finally the last remaining errand fourth***. Note that these choices are made consecutively, so the **[Product Rule](Chapter%208%20(Part%201)%20Notes.md#Product-Rule)** applies: There are four possibilities for the first choice, three for the second, two for the third, and one choice for the last, for a total of 4·3·2·1 = 4! = 24 total possibilities (permutations). If there were n errands to run (or n objects to order), the number of possible permutations is n!.
+
+Now suppose that one only had time to run **two of the four errands**. How many ordered arrangements  of two of the four errands are there? Applying our analysis from above, there are four choices for the first errand and three remaining choices for the second, yielding ***4·3 = 12 possible arrangements***. More generally, an ordered arrangement of **r objects** from a collection is referred to as an **[r-permutation](Chapter%208%20(Part%201)%20Notes.md#Counting-r-permutations)** and denoted by **P(n,r); calculators often use the notation *nPr***. Applying the above analysis to the general case yields the number of such arrangements.
+***
+# Example 8.14
+A wedding party consists of the bride, the groom, the bride’s mother and father, the groom’s mother and father, the best man, the maid of honor, two ushers, and two bride’s maids.
+## a. How many ways are there of arranging all of them in a row for a picture?  
+- There are 12 people in the wedding party so there are P(12,12) = 12! ways of arranging them in a row.  
+## b. How many ways if the bride and groom stand together on the left side of the line?  
+- There are **2 ways to arrange the bride and groom on the far left side** of the line and P(10,10) =10! ways of arranging the rest of the party so 2·10! possible arrangements.  
+## c. How many ways if the bride and groom are together but anywhere in the line?  
+- There are **P(10,10) = 10!** ways of **arranging the rest of the party without the bride and groom**. Then the **bride and groom together can be place between and two of the lined up people** or to **the left or to the right of all of them**. That’s **11 different positions**. There are 2 ways to arrange the bride and groom. 
+	- The total number of arrangements is **10!·11·2**.  
+## d. How many ways can 5 members of the wedding party line up for a picture?  
+- We must line up 5 people out of 12 so **P(12,5) = 12·11·10·9·8**.
+***
+# Example 8.15
+On the trip I am about to take, I must visit Florence, Milan, Venice, London, Bristol, and Warwick.  
+## a. How many different itineraries are possible?  
+- There are 6 cities so 6! possible itineraries.  
+## b. How many itineraries are possible if all the British cities are consecutive and all the Italian cities are consecutive?  
+- Florence, Milan, and Venice are in Italy. London, Bristol, and Warwick are in England. There are  3! orders for the Italian cities and 3! orders for the British cities. I can go to Italy first or to England first so there are 3!·3!·2 = 72 possible itineraries.
+***
+# Example 8.16
+## a. How many permutation are there of the letters A B C D E F G H I J?  
+- P(10,10) = 10!.  
+## b. How many of them contain the block  
+### 1) HEAD  
+- First arrange the other letters, B, C, F, G, I, J. There are 6! arrangements. Then place the block HEAD between two of the arranged letters or at one of the ends. There are 7 places it can go. That makes a total of 7·6! strings. You can also think of this as gluing the H,E,A,D together to form one block and then counting all the arrangements of the 7 blocks, HEAD, B, C, F, G, I, J to get 7!.  
+### 2) HJF  
+- This is just like part 1 but you must arrange the other 7 letters and then there are 8 places where HJF can go.  
+### 3) BIGFACEDHJ  
+- Just one.
 ***

@@ -4,8 +4,9 @@
 - Inclusion-Exclusion Principle
 - The Pigeonhole Principle
 	- Generalized Pigeonhole Principle
+- Permutation
 ***
-> Examples are provided within another page, click the corresponding link below each section
+> **Examples are provided within another page, click the corresponding link below each section**
 # Chapter 8 (Part 1): Counting - Notes Simplified
 **Combinatorics** - A branch of mathematics largely concerned with counting discrete objects <br />
 Many problems in comp sci involve **counting** possible solutions, **enumerating** those solutions, or **finding** the optimal solution among a candidate set.
@@ -38,8 +39,8 @@ In situations when a **single choice must be made from sets of alternatives whic
 ## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.6)
 ***
 # The Pigeonhole Principle
-If **`k + 1` or more objects are placed in k boxes**, then there must exist a box that **contains two or more objects**.
-**For example:**
+If **`k + 1` or more objects are placed in k boxes**, then there must exist a box that **contains two or more objects**. <br />
+### For example:
 - If **13 or more people gather in a room**, then it is guaranteed that **at least two of them share the same birth month**. While this may happen in a gathering of 12 or fewer people, it is not guaranteed.
 ## [Examples for this Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.8)
 ## Generalized Pigeonhole Principle
@@ -47,3 +48,27 @@ Suppose that {x<sub>1</sub>, x<sub>2</sub>, . . . , x<sub>n</sub>} is a collecti
 ![](Photos/Generalized%20Pigeonhole%20Principle%20Equation.png) <br />
 Then it clearly cannot be the case that every number is less than the average; in other words, **there must exist at least one number that is at least as large as the average**.
 - **Generalized Pigeonhole:** Principle If N objects are placed in k boxes, then there must exist a box that contains \[N/k\] or more objects.
+## [Examples for this Generalized Principle](Chapter%208%20(Part%201)%20Examples.md#Example-8.13)
+***
+# Permutation
+**Permutation** - An **ordered arrangement of a set (or subset) of objects**.
+## Counting Permutations
+![](Photos/Counting%20Permutations%20Equation.png) <br />
+### Counting r-permutations
+![](Photos/Counting%20r-Permutations%20Equation.png) <br />
+Note that **r-permutations** are a generalization of permutations; indeed, and **n-permutation** is an ordered arrangement of all n out of n objects, and the number of such n-permutations is **P(n,n) = n!/0! = n!**.
+## [Examples for Permutation](Chapter%208%20(Part%201)%20Examples.md#Permutation-Example-Errands)
+***
+# Here are a list of outside resources that might help you better understand each principle:
+## Inclusion Exclusion Principle
+- ### [Wolfram MathWorld](https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html)
+- ### [GeeksforGeeks - Includes Programming Applications](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
+
+## The Pigeonhole Principle
+- ### [Baeldung - Overview + Generalized](https://www.baeldung.com/cs/pigeonhole-principle)
+- ### [GeeksforGeeks](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
+	- #### [Pigeonhole Sort just for fun :3 (GeeksforGeeks)](https://www.geeksforgeeks.org/pigeonhole-sort/)
+
+## Permutation
+- ### [Khan Academy - Permutation Formula](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula)
+- ### [BYJU's - Definition, Formula, Types, and Examples](https://byjus.com/maths/permutation/)
