@@ -1,21 +1,21 @@
 ## Table of Contents
-- Example 8.1
-- Example 8.2
-- Example 8.3
-- Example 8.4 - Picking Students
-- Example 8.5
-- Example 8.6
-- Example 8.7
-- Example 8.8
-- Example 8.9
-- Example 8.10
-- Example 8.11
-- Example 8.12
-- Example 8.13
-- Permutation Example - Errands
-- Example 8.14
-- Example 8.15
-- Example 8.16
+- [Example 8.1](#Example-8.1)
+- [Example 8.2](#Example-8.2)
+- [Example 8.3](#Example-8.3)
+- [Example 8.4 - Picking Students](#Example-8.4-Picking-Students)
+- [Example 8.5](#Example-8.4)
+- [Example 8.6](#Example-8.6)
+- [Example 8.7](#Example-8.8)
+- [Example 8.8](#Example-8.8)
+- [Example 8.9](#Example-8.9)
+- [Example 8.10](#Example-8.10)
+- [Example 8.11](#Example-8.11)
+- [Example 8.12](#Example-8.12)
+- [Example 8.13](#Example-8.13)
+- [Permutation Example - Errands](#Permutation-Example-Errands)
+- [Example 8.14](#Example-8.14)
+- [Example 8.15](#Example-8.15)
+- [Example 8.16](#Example-8.16)
 ***
 # Example 8.1
 Personal Identification Numbers or PINs are entered on a numeric keypad and, hence made up entirely of digits. The PINs on our office locks are required to be exactly 4 digits. How many different PINs are possible? <br />
@@ -48,6 +48,7 @@ is **0111 1111 1111 1111 = 2<sup>15</sup> − 1 = 32767**
 ***
 # Read About the [Product Rule](Chapter%208%20(Part%201)%20Notes.md#Product-Rule) and the [Sum Rule](Chapter%208%20(Part%201)%20Notes.md#Sum-Rule) in the Notes Before Going to the Next Examples
 ***
+***
 # Example 8.4 - Picking Students
 Suppose that there are three sections of a discrete structures class containing 73, 64, and 41 students, respectively.  
 ## a) How many distinct ways are there of choosing one discrete structures student to write up a sheet of notes for everyone to use at the final?  
@@ -63,6 +64,7 @@ Suppose that there are three sections of a discrete structures class containing 
 	- This is an example of **combinations**, which is discussed in more detail in Section 8.5.
 ***
 # Read About the [Inclusion-Exclusion Principle](Chapter%208%20(Part%201)%20Notes.md#Inclusion-Exclusion-Principle) in the Notes Before Going to the Next Examples
+***
 ***
 # Example 8.5
 More Passwords Suppose passwords are restricted to **6 case-sensitive alpha-numeric characters** and **must contain at least 1 digit and at least 1 letter**. How many are there?
@@ -110,6 +112,7 @@ How many **positive integers between 1000 and 9999 inclusive** (There are 9000 c
 ***
 # Read About the [Pigeonhole Principle](Chapter%208%20(Part%201)%20Notes.md#The-Pigeonhole-Principle) in the Notes Before Going to the Next Examples
 ***
+***
 # Example 8.8
 Suppose that there are **102 students in two sections of discrete structures**. If they all take the final, will **at least two of them get the same grade**?  
 - There are **101 possible grades 0, 1, . . . , 100** so the result follows from the pigeonhole principle
@@ -152,6 +155,7 @@ Suppose that there are **51 students** in a discrete structures class. How many 
 ***
 # Read About the [Permutation](Chapter%208%20(Part%201)%20Notes.md#Permutation) in the Notes Before Going to the Next Examples
 ***
+***
 # Permutation Example - Errands
 One had to run four errands, a trip each to (1) the grocery store, (2) the dry cleaners,  
 (3) the hardware store, and (4) the post office. One would have to decide in which order these errands would be performed. Any such ordering of these errands is a permutation. <br />
@@ -190,3 +194,5 @@ On the trip I am about to take, I must visit Florence, Milan, Venice, London, Br
 ### 3) BIGFACEDHJ  
 - Just one.
 ***
+***
+# I also Included [External Resources Here](Chapter%208%20(Part%201)%20Notes.md#External-Resources) if these Example Aren't Enough :)

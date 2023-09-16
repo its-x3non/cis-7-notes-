@@ -1,10 +1,11 @@
 ## Table of Contents
-- Example 1 (Sum Rule)
-- Example 2 (Product Rule)
-- Inclusion-Exclusion Principle
-- The Pigeonhole Principle
-	- Generalized Pigeonhole Principle
-- Permutation
+- [Example 1 (Sum Rule)](#Example-1-(Sum-Rule))
+- [Example 2 (Product Rule)](#Example-2-(Product-Rule))
+- [Inclusion-Exclusion Principle](#Inclusion-Exclusion-Principle)
+- [The Pigeonhole Principle](#The-Pigeonhole-Principle)
+	- [Generalized Pigeonhole Principle](#Generalized-Pigeonhole-Principle)
+- [Permutation](#Permutation)
+- [External Resources](#External-Resources)
 ***
 > **Examples are provided within another page, click the corresponding link below each section**
 # Chapter 8 (Part 1): Counting - Notes Simplified
@@ -59,16 +60,17 @@ Then it clearly cannot be the case that every number is less than the average; i
 Note that **r-permutations** are a generalization of permutations; indeed, and **n-permutation** is an ordered arrangement of all n out of n objects, and the number of such n-permutations is **P(n,n) = n!/0! = n!**.
 ## [Examples for Permutation](Chapter%208%20(Part%201)%20Examples.md#Permutation-Example-Errands)
 ***
-# Here are a list of outside resources that might help you better understand each principle:
-## Inclusion Exclusion Principle
-- ### [Wolfram MathWorld](https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html)
-- ### [GeeksforGeeks - Includes Programming Applications](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
+# External Resources
+## Here are a list of outside resources that might help you better understand Chapter 8 (Part 1):
+### Inclusion Exclusion Principle
+- #### [Wolfram MathWorld](https://mathworld.wolfram.com/Inclusion-ExclusionPrinciple.html)
+- #### [GeeksforGeeks - Includes Programming Applications](https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/)
 
-## The Pigeonhole Principle
-- ### [Baeldung - Overview + Generalized](https://www.baeldung.com/cs/pigeonhole-principle)
-- ### [GeeksforGeeks](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
-	- #### [Pigeonhole Sort just for fun :3 (GeeksforGeeks)](https://www.geeksforgeeks.org/pigeonhole-sort/)
+### The Pigeonhole Principle
+- #### [Baeldung - Overview + Generalized](https://www.baeldung.com/cs/pigeonhole-principle)
+- #### [GeeksforGeeks](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
+	- ##### [Pigeonhole Sort just for fun :3 (GeeksforGeeks)](https://www.geeksforgeeks.org/pigeonhole-sort/)
 
-## Permutation
-- ### [Khan Academy - Permutation Formula](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula)
-- ### [BYJU's - Definition, Formula, Types, and Examples](https://byjus.com/maths/permutation/)
+### Permutation
+- #### [Khan Academy - Permutation Formula](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/permutation-formula)
+- #### [BYJU's - Definition, Formula, Types, and Examples](https://byjus.com/maths/permutation/)
