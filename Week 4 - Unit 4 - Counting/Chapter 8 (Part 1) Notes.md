@@ -1,6 +1,6 @@
 ## Table of Contents
-- [Example 1 (Sum Rule)](#Example-1-(Sum-Rule))
-- [Example 2 (Product Rule)](#Example-2-(Product-Rule))
+- [Example 1 (Sum Rule)](#Example-1-Sum-Rule)
+- [Example 2 (Product Rule)](#Example-2-Product-Rule)
 - [Inclusion-Exclusion Principle](#Inclusion-Exclusion-Principle)
 - [The Pigeonhole Principle](#The-Pigeonhole-Principle)
 	- [Generalized Pigeonhole Principle](#Generalized-Pigeonhole-Principle)
