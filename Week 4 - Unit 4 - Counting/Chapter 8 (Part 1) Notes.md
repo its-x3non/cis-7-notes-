@@ -30,7 +30,7 @@ If in addition Bob were to choose a drink and there were eight possible drinks, 
 If A and B are **finite sets** then the number of ways of choosing an element from **A and an element from B is |A × B| = |A| × |B|.**
 - The product rule is applicable when **one must make two (or more) consecutive choices from sets of alternatives.**
 	- **General Product Rule:** If A<sub>1</sub>, A<sub>2</sub>, . . . , A<sub>n</sub> are finite sets, then the number of ways of choosing an element from A<sub>1</sub>, A<sub>2</sub>, . . . , and an element from A<sub>n</sub> is **|A<sub>1</sub> × A<sub>2</sub> ×· · · × A<sub>n</sub>| = |A<sub>1</sub>| × |A<sub>2</sub>| ×  · · · × |A<sub>n</sub>|.**
-## [Examples for these Rules](Chapter%208%20(Part%201)%20Examples.md#Example-8.4-Picking-Students)
+## [Examples for these Rules](Chapter%208%20(Part%201)%20Examples.md#Example-8.4---Picking-Students)
 ***
 # The Inclusion-Exclusion Principle
 In the description of the [Sum Rule](#Sum-Rule), we assumed that the **sets of alternatives from which one must make a single choice were <u>mutually disjoint</u>**, i.e., that ***they did not share any common elements***. <br />
@@ -58,7 +58,7 @@ Then it clearly cannot be the case that every number is less than the average; i
 ### Counting r-permutations
 ![](Photos/Counting%20r-Permutations%20Equation.png) <br />
 Note that **r-permutations** are a generalization of permutations; indeed, and **n-permutation** is an ordered arrangement of all n out of n objects, and the number of such n-permutations is **P(n,n) = n!/0! = n!**.
-## [Examples for Permutation](Chapter%208%20(Part%201)%20Examples.md#Permutation-Example-Errands)
+## [Examples for Permutation](Chapter%208%20(Part%201)%20Examples.md#Permutation-Example---Errands)
 ***
 # External Resources
 ## Here are a list of outside resources that might help you better understand Chapter 8 (Part 1):
