@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
+                "file": "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
+                "file": "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
+                "file": "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md"
+                "file": "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Examples.md"
               }
             }
           },
@@ -190,8 +190,11 @@
   },
   "active": "ffd27874946a0456",
   "lastOpenFiles": [
-    "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+    "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Notes.md",
+    "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem/Chapter 8 (Part 2) Examples.md",
     "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Examples.md",
+    "Week 4 - Unit 4 - Counting/Chapter 8 (Part 1) Notes.md",
+    "Week 5 - Unit 5 - Combinations, Binomial and Pascal Triangle Theorem",
     "Week 4 - Unit 4 - Counting/Pasted image 20230916014107.png",
     "Week 4 - Unit 4 - Counting/Photos/Counting r-Permutations Equation.png",
     "Week 4 - Unit 4 - Counting/Photos/Counting Permutations Equation.png",
@@ -219,7 +222,6 @@
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NAND Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/NOT Gates",
     "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/OR Gates",
-    "Week 2 - Unit 2 - Logic and Truth Table/Photos/Chapter 2/AND Gates",
     "MIDTERM (Modules 1-5)/Midterm Exam Answers.md",
     "FINAL/Final Exam.md",
     "MIDTERM (Modules 1-5)/Midterm Exam Q1.md",
@@ -233,7 +235,6 @@
     "Module 9/Pearson Notes/14.10 - Rvalue References and Move Semantics.md",
     "Module 9/Pearson Notes/14.9 - Focus on Object-Oriented Programming.md",
     "Module 9/Pearson Notes/14.8 - Focus on Object-Oriented Design.md",
-    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md",
-    "Module 7/Pearson Notes/14.2 - Friends of Classes.md"
+    "Module 7/Pearson Notes/14.3 - Memberwise Assignment.md"
   ]
 }
