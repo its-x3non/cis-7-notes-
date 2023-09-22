@@ -17,4 +17,4 @@
 #### Permutations (Non-Repetitive) Formula
 $$\frac{16!}{3!(16-3)!} = \frac{16!}{3! \times13!} = 16 \times 15 \times 14 = 3,360$$
 ### Errands Example
-From the ["errands" example from the previous section](/Week%204%20-%20Unit%204%20-%20Counting/Chapter%208%20(Part%201)%20Examples.md#Permutation-Example---Errands)
+From the ["errands" example from the previous section](../Week%204%20-%20Unit%204%20-%20Counting/Chapter%208%20(Part%201)%20Examples.md#Permutation-Example---Errands)
